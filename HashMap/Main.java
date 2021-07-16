@@ -3,6 +3,8 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
+        
+        //Criação do objeto HashMap. Chave é uma String e os valores serão Integer
         HashMap<String, Integer> campeoesMundiaisFifa = new HashMap<>();
 
         //Inserção de valores no Map
